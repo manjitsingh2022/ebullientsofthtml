@@ -11246,7 +11246,8 @@ section {
   position: relative; }
   .dz-bnr-inr.style-1 {
     position: relative;
-    background-color: #f3802c  !important ;
+    background-color: #7f7f7f
+    !important ;
    
    }
     .dz-bnr-inr.style-1 .bg-shape1,
@@ -16128,7 +16129,8 @@ ul a.rsswidget {
   height: 920px;
   position: relative;
   background-image: url(../images/home-banner/bg.jpg);
-  background-color: #261355;  
+  background-color: #808080
+  ;  
   display: flex;
   background-size: cover;
   overflow: hidden;
