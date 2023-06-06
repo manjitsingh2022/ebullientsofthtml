@@ -15124,7 +15124,7 @@ section {
   position: relative;
   z-index: 2;
   width: 100%;
-  background-image: url(../images/banner/bnr.png);
+  /* background-image: url(../images/banner/bnr.png); */
   background-color: #261355;
   position: relative;
 }
@@ -15289,7 +15289,7 @@ section {
 }
 .dz-bnr-inr.style-1 {
   position: relative;
-  background-color: #7f7f7f !important ;
+  background-color: #ffffff !important ;
 }
 .dz-bnr-inr.style-1 .bg-shape1,
 .dz-bnr-inr.style-1 .bg-shape2,
@@ -21789,7 +21789,7 @@ ul a.rsswidget:hover {
 .main-bnr {
   height: 920px;
   position: relative;
-  background-image: url(../images/home-banner/bg.jpg);
+  /* background-image: url(../images/home-banner/bg.jpg); */
   background-color: #ffffff;
   display: flex;
   background-size: cover;
