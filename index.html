@@ -49,6 +49,20 @@
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
     />
   </head>
+  <style>
+    .content-section {
+      display: none;
+    }
+  </style>
+  <script>
+    function showContent(id) {
+      var contentSections = document.getElementsByClassName('content-section');
+      for (var i = 0; i < contentSections.length; i++) {
+        contentSections[i].style.display = 'none';
+      }
+      document.getElementById(id).style.display = 'block';
+    }
+  </script>
   <body>
     <!--*******************
         Preloader start
@@ -126,7 +140,8 @@
                   <li><a href="index.html">Home</a></li>
                   <li><a href="about-us.html">About Us</a></li>
                   <li><a href="portfolio.html">Portfolio</a></li>
-                  <li><a href="services.html">Services</a></li>
+                  <li><a href="services.html" >Services</a></li>
+                  <!-- <li><a href="#section1" onclick="showContent('section1')">Services</a></li> -->
                   <!-- <li><a href="pricing.html">Pricing</a></li> -->
                   <!-- <li class="sub-menu-down">
                      <a href="javascript:void(0);">Blog</a> -->
@@ -168,7 +183,7 @@
                         <a
                           target="_blank"
                           class="fab fa-instagram"
-                          href="https://instagram.com/ebullientsoft?igshid=MjEwN2IyYWYwYw=="
+                          href="https://instagram.com/ebullientsoft?igshid=MjEwN2IyYWYwYw==/"
                         ></a>
                       </li>
                     </ul>
@@ -458,7 +473,7 @@
         <!-- Why Trust Us End -->
 
         <!-- Crypto From And Services Start -->
-        <section class="content-inner bg-light icon-section section-wrapper2">
+        <section class="content-inner bg-light icon-section section-wrapper2" id="section1" class="content-section">
           <div class="container">
             <div class="section-head text-center">
               <h2 class="title">
