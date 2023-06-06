@@ -15871,7 +15871,7 @@ footer .footer-inner .copyright-text a {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: #fe6c02;
+  background-color: #2e1c0e;
   z-index: -1;
 }
 @media only screen and (max-width: 991px) {
@@ -25201,6 +25201,10 @@ pre {
 .alignfull:not(.has-background) .wp-block-columns {
   padding-left: 1rem;
   padding-right: 1rem;
+}
+
+.ptext_color{
+  color:#2e1c0e;
 }
 
 /*# sourceMappingURL=style.css.map */
