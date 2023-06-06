@@ -10993,7 +10993,7 @@ section {
     padding-top: 85px; }
   @media only screen and (min-width: 991px) {
     .header-transparent .nav > li > a {
-      color: #fff; } }
+      color: #000000; } }
   .header-transparent .logo-header .logo-light {
     display: table-cell; }
   .header-transparent .logo-header .logo-dark {
@@ -16129,7 +16129,7 @@ ul a.rsswidget {
   height: 920px;
   position: relative;
   background-image: url(../images/home-banner/bg.jpg);
-  background-color: #808080
+  background-color: #ffffff;
   ;  
   display: flex;
   background-size: cover;
@@ -16146,7 +16146,7 @@ ul a.rsswidget {
     position: relative;
     z-index: 3; }
   .main-bnr h1, .main-bnr .h1 {
-    color: #fff;
+    color: #000000;
     font-size: 70px;
     line-height: 1.2;
     margin-bottom: 32px;
