@@ -1,13 +1,16 @@
 <?php require_once("header-inner.php"); ?>
 
 
+
 <!-- Page Content Start -->
 <div class="page-content">
+
     <!-- Banner  -->
     <div class="dz-bnr-inr style-1 text-center">
         <div class="container">
             <div class="dz-bnr-inr-entry">
                 <h1>Portfolio</h1>
+
                 <!-- Breadcrumb Row -->
                 <nav aria-label="breadcrumb" class="breadcrumb-row">
                     <ul class="breadcrumb">
