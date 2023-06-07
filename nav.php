@@ -8,7 +8,7 @@
   <ul class="nav navbar-nav navbar">
     <li><a href="index.php">Home</a></li>
 
-    <li><a href="portfolio.html">Portfolio</a></li>
+    <li><a href="portfolio.php">Portfolio</a></li>
     <!-- <li><a href="services.html">Services</a></li> -->
     <li><a href="blog.php">Blog</a></li>
     <!-- <li><a href="#section1" onclick="showContent('section1')">Services</a></li> -->
