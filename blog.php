@@ -47,7 +47,7 @@
                         </div>
                         <h4 class="dz-title"><a href="blog-details.html">Things That Make You Love Cryptocurrency</a></h4>
                         <p>A wonderful serenity has taken of my entire soul, like these.</p>
-                        <a href="blog-details.html" class="btn btn-primary">Read More</a>
+                        <a href="speech-recognition.php" class="btn btn-primary">Read More</a>
                     </div>
                 </div>
             </div>
