@@ -1,7 +1,30 @@
 <?php require_once("header-inner.php");?>
 <div class="page-content">
 
-<?php require_once("banner.php");?>
+<?php //require_once("banner.php");?>
+
+<!-- Banner  -->
+<div class="dz-bnr-inr style-1 text-center">
+    <div class="container">
+        <div class="dz-bnr-inr-entry">
+            <h1>Contact Us</h1>
+            <p class="text"></p>
+            <!-- Breadcrumb Row -->
+            <nav aria-label="breadcrumb" class="breadcrumb-row">
+                <ul class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
+                </ul>
+            </nav>
+            <!-- Breadcrumb Row End -->
+        </div>
+    </div>
+    <img class="bg-shape1" src="images/home-banner/shape1.png" alt="">
+    <img class="bg-shape2" src="images/home-banner/shape1.png" alt="">
+    <!-- <img class="bg-shape3" src="images/home-banner/shape3.png" alt="">
+    <img class="bg-shape4" src="images/home-banner/shape3.png" alt=""> -->
+</div>
+<!-- Banner End -->
 <!-- Contact form sectio starts from here -->
 		<section class="content-inner contact-form-wraper style-1">
 			<div class="container">
@@ -27,9 +50,9 @@
 										</li>
 										<li>
 											<i class="fas fa-map-marker-alt"></i>
-											<span>F-244, Phase 8B, Industrial Area
-												Sector 74, <br> Sahibzada Ajit Singh Nagar
-												Mohali, Punjab, India (160071)</span>
+											<span>F-244, Phase 8-B, Industrial Area
+											<br />
+												Mohali, Punjab, India (160055)</span>
 										</li>
 									</ul>
 								</div>
