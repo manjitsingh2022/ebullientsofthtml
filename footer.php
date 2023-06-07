@@ -2,18 +2,13 @@
       <footer class="site-footer style-1" id="footer">
         <img class="bg-shape1" src="images/home-banner/shape1.png" alt="" />
 
-        <div
-          class="footer-top background-luminosity"
-          style="background-image: url(images/background/bg1.jpg)"
-        >
+        <div class="footer-top background-luminosity" style="background-image: url(images/background/bg1.jpg)">
           <div class="container">
             <div class="row">
               <div class="col-xl-4 col-lg-12 col-md-12">
                 <div class="widget widget_about">
                   <div class="footer-logo logo-white">
-                    <a href="index.html"
-                      ><img src="images/logo-white.png" alt=""
-                    /></a>
+                    <a href="index.html"><img src="images/logo-white.png" alt="" /></a>
                   </div>
                   <!-- <p>
                     CryptoZone is a Crypto & Crypto Website by DexignZone lorem
@@ -23,32 +18,16 @@
                   <div class="dz-social-icon transparent space-10">
                     <ul>
                       <li>
-                        <a
-                          target="_blank"
-                          class="fab fa-facebook-f"
-                          href="https://www.facebook.com/"
-                        ></a>
+                        <a target="_blank" class="fab fa-facebook-f" href="https://www.facebook.com/"></a>
                       </li>
                       <li>
-                        <a
-                          target="_blank"
-                          class="fab fa-instagram"
-                          href="https://www.instagram.com/"
-                        ></a>
+                        <a target="_blank" class="fab fa-instagram" href="https://www.instagram.com/"></a>
                       </li>
                       <li>
-                        <a
-                          target="_blank"
-                          class="fab fa-twitter"
-                          href="https://twitter.com/"
-                        ></a>
+                        <a target="_blank" class="fab fa-twitter" href="https://twitter.com/"></a>
                       </li>
                       <li>
-                        <a
-                          target="_blank"
-                          class="fab fa-youtube"
-                          href="https://youtube.com/"
-                        ></a>
+                        <a target="_blank" class="fab fa-youtube" href="https://youtube.com/"></a>
                       </li>
                     </ul>
                   </div>
@@ -73,9 +52,7 @@
                     <div class="widget-post clearfix">
                       <div class="dz-info">
                         <h6 class="title">
-                          <a href="blog-details.html"
-                            >What is Speech Recognition? </a
-                          >
+                          <a href="blog-details.html">What is Speech Recognition? </a>
                         </h6>
                         <span class="post-date"> JUNE 18, 2022</span>
                       </div>
@@ -84,9 +61,7 @@
                     <div class="widget-post clearfix">
                       <div class="dz-info">
                         <h6 class="title">
-                          <a href="blog-details.html"
-                            >Develop AI-based Mobile App with React Native</a
-                          >
+                          <a href="blog-details.html">Develop AI-based Mobile App with React Native</a>
                         </h6>
                         <span class="post-date"> AUGUST 22, 2022</span>
                       </div>
@@ -107,24 +82,30 @@
             </div>
           </div>
         </div>
-        </footer>
+      </footer>
       <!-- Footer End -->
 
       <!-- Bottom to top -->
       <button class="scroltop icon-up" type="button">
         <i class="fas fa-arrow-up"></i>
       </button>
-    </div>
+      </div>
 
-    <!-- JAVASCRIPT FILES ========================================= -->
-    <script src="js/jquery.min.js"></script>
-    <!-- JQUERY.MIN JS -->
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <!-- WOW.JS -->
-    <script src="vendor/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
-    <script src="vendor/wow/wow.js"></script>
-    <!-- WOW.JS -->
-    <script src="js/custom.js"></script>
-    <!-- CUSTOM JS -->
-  </body>
-</html>
+      <!-- JAVASCRIPT FILES ========================================= -->
+      <script src="js/jquery.min.js"></script>
+      <!-- JQUERY.MIN JS -->
+      <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+      <!-- WOW.JS -->
+      <script src="vendor/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
+      <script src="vendor/wow/wow.js"></script>
+      <!-- WOW.JS -->
+      <script src="js/custom.js"></script>
+      <!-- CUSTOM JS -->
+
+
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+      <script src="assets/js/jquery.quicksand.js"></script>
+      <script src="assets/js/script.js"></script>
+      </body>
+
+      </html>
