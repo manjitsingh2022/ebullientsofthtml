@@ -73,7 +73,7 @@
                     <div class="widget-post clearfix">
                       <div class="dz-info">
                         <h6 class="title">
-                          <a href="blog-details.html"
+                          <a href="speech-recognition.html"
                             >What is Speech Recognition? </a
                           >
                         </h6>
@@ -84,7 +84,7 @@
                     <div class="widget-post clearfix">
                       <div class="dz-info">
                         <h6 class="title">
-                          <a href="blog-details.html"
+                          <a href="react-native-app.html"
                             >Develop AI-based Mobile App with React Native</a
                           >
                         </h6>
