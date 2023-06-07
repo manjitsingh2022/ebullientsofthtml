@@ -12,9 +12,9 @@
                 <!-- Navbar nav -->
                 <ul class="nav navbar-nav navbar">
                   <li><a href="index.php">Home</a></li>
-                  <li><a href="speech-recognition.php">About Us</a></li>
+               
                   <li><a href="portfolio.html">Portfolio</a></li>
-                  <li><a href="services.html">Services</a></li>
+                  <!-- <li><a href="services.html">Services</a></li> -->
                   <li><a href="blog.php">Blog</a></li>
                   <!-- <li><a href="#section1" onclick="showContent('section1')">Services</a></li> -->
                   <!-- <li><a href="pricing.html">Pricing</a></li> -->
@@ -26,7 +26,8 @@
                       <li><a href="blog-details.html">Blog details</a></li>
                     </ul> 
                   </li> -->
-                  <li><a href="contactus.php">Contact Us</a></li>
+                  <li><a href="speech-recognition.php">About</a></li>
+                  <li><a href="contactus.php">Contact</a></li>
                 </ul>
 
                 <!-- Mobile Sidebar bottom -->
