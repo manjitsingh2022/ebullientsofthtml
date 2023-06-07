@@ -50,8 +50,7 @@
                       </ul>
                     </div>
                     <h3 class="dz-title">
-                      15 Advantages Of Cryptocurrency And How You Can Make Full
-                      Use Of It.
+                      
                     </h3>
                     <div class="dz-post-text">
                       <p>
@@ -77,24 +76,41 @@
                         This technology works by analyzing the acoustic patterns
                         of speech and using machine learning algorithms to
                         convert those patterns into text or commands. The
-                        process involves several stages, including: 1.
-                        Preprocessing: The microphone catches words, filters out
+                        process involves several stages, including: 
+                        <br />
+                        <b>1.
+                        Preprocessing:</b> The microphone catches words, filters out
                         noise, and enhances the sound waves. This improves the
-                        speech signal. 2. Feature extraction: It examines the
+                        speech signal. 
+                        <br />
+                        <b>2. Feature extraction:</b> It examines the
                         speech signal to get specific features like tone,
-                        length, and sound type. 3. Acoustic modeling: The
+                        length, and sound type. 
+                        <br />
+                        <b>3. Acoustic modeling:</b> The
                         features extracted are used to train machine learning
                         algorithms. These algorithms recognize patterns in
-                        speech. 4. Speech modeling: It combines found patterns
+                        speech. 
+                        <br />
+                        <b>4. Speech modeling:</b> It combines found patterns
                         with spoken language info to make it more accurate. The
-                        benefits of this technology include: 1. Increased
+                        benefits of this technology include: 
+                        <br />
+                        a. Increased
                         productivity: It allows users to dictate text or
                         commands to their devices, saving time and increasing
-                        efficiency. 2. Accessibility: It can be used by
+                        efficiency. 
+                        <br />
+                        b. Accessibility: It can be used by
                         individuals with disabilities or those who have
-                        difficulty typing or using a keyboard. 3. Convenience:
+                        difficulty typing or using a keyboard. 
+                        
+                        <br />
+                        c. Convenience:
                         It eliminates the need to type or use a mouse, allowing
-                        users to interact with their devices hands-free. 4.
+                        users to interact with their devices hands-free. 
+                        <br />
+                        d.
                         Improved accuracy: As speech recognition technology
                         continues to improve, it is becoming more accurate and
                         reliable. It reduces errors and improves the user
@@ -104,33 +120,302 @@
                         increased productivity, accessibility, convenience, and
                         improved accuracy.
                       </p>
-                      <ul class="m-b30">
-                        <li>A wonderful serenity has taken possession.</li>
-                        <li>
-                          Of my entire soul, like these sweet mornings of spring
-                          which.
+                    </div>
+                    <div class="dz-share-post">
+                      <div class="post-tags">
+                        <h6 class="m-b0 m-r10 d-inline">Tags:</h6>
+                        <a href="javascript:void(0);"><span>Corporate</span></a>
+                        <a href="javascript:void(0);"><span>Blog</span></a>
+                        <a href="javascript:void(0);"><span>Marketing</span></a>
+                      </div>
+                      <div class="dz-social-icon dark">
+                        <ul>
+                          <li>
+                            <a
+                              target="_blank"
+                              class="fab fa-facebook-f"
+                              href="https://www.facebook.com/"
+                            ></a>
+                          </li>
+                          <li>
+                            <a
+                              target="_blank"
+                              class="fab fa-instagram"
+                              href="https://www.instagram.com/"
+                            ></a>
+                          </li>
+                          <li>
+                            <a
+                              target="_blank"
+                              class="fab fa-twitter"
+                              href="https://twitter.com/"
+                            ></a>
+                          </li>
+                          <li>
+                            <a
+                              target="_blank"
+                              class="fab fa-youtube"
+                              href="https://www.youtube.com/"
+                            ></a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="widget-title">
+                  <h4 class="title">Related Blog</h4>
+                </div>
+                <div class="row m-b30 m-sm-b10">
+                  <div class="col-md-6 m-b30">
+                    <div class="dz-card style-1 blog-lg overlay-shine">
+                      <div class="dz-media">
+                        <a href="React-Native-App.html"
+                          ><img src="images/blog/native.png" alt=""
+                        /></a>
+                      </div>
+                      <div class="dz-info">
+                        <div class="dz-meta">
+                          <ul>
+                            <li class="post-author">
+                              <a href="javascript:void(0);">
+                                <img src="images/avatar/avatar2.jpg" alt="" />
+                                <span>By Jemmy</span>
+                              </a>
+                            </li>
+                            <li class="post-date">
+                              <a href="javascript:void(0);"> 24 May 2022</a>
+                            </li>
+                          </ul>
+                        </div>
+                        <h4 class="dz-title">
+                          <a href="React-Native-App.html"
+                            >Develop AI-based Mobile App with React Native</a
+                          >
+                        </h4>
+                        <p>
+                          React Native is a popular framework for building mobile applications. It can be used to develop AI-powered mobile apps. React Native works by allowing....
+                        </p>
+                        <a href="React-Native-App.html" class="btn btn-primary"
+                          >Read More</a
+                        >
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6 m-sm-b30">
+                    <div class="dz-card style-1 blog-lg overlay-shine">
+                      <div class="dz-media video-bx2 h-auto">
+                        <a href="AI-with-python.html"
+                          ><img src="images/blog/python.jpg" alt=""
+                        /></a>
+                      </div>
+                      <div class="dz-info">
+                        <div class="dz-meta">
+                          <ul>
+                            <li class="post-author">
+                              <a href="javascript:void(0);">
+                                <img src="images/avatar/avatar3.jpg" alt="" />
+                                <span>By uvee</span>
+                              </a>
+                            </li>
+                            <li class="post-date">
+                              <a href="javascript:void(0);"> 25 May 2022</a>
+                            </li>
+                          </ul>
+                        </div>
+                        <h4 class="dz-title">
+                          <a href="AI-with-python.html"
+                            >How can we create an Artificial Intelligence project with the use of Python?</a
+                          >
+                        </h4>
+                        <p>
+                          Creating an Artificial Intelligence project with Python involves several steps, here’s a general overview of the process....
+                        </p>
+                        <a href="AI-with-python.html" class="btn btn-primary"
+                          >Read More</a
+                        >
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="clear" id="comment-list">
+                  <div class="comments-area style-1 clearfix" id="comments">
+                    <div class="widget-title">
+                      <h4 class="title">Comments</h4>
+                    </div>
+                    <div class="clearfix">
+                      <!-- comment list END -->
+                      <ol class="comment-list">
+                        <li class="comment">
+                          <div class="comment-body">
+                            <div class="comment-author vcard">
+                              <img
+                                class="avatar photo"
+                                src="images/avatar/avatar1.jpg"
+                                alt=""
+                              />
+                            </div>
+                            <div class="comment-info">
+                              <div class="title">
+                                <cite class="fn">Lillian Walsh</cite>
+                                <span>07 March, 2022</span>
+                              </div>
+                              <p>
+                                Integer consectetur diam vitae imperdiet
+                                iaculis. In faucibus, sem sit amet tincidunt
+                                egestas, magna ligula interdum leo.
+                              </p>
+                              <div class="reply">
+                                <a
+                                  href="javascript:void(0);"
+                                  class="comment-reply-link"
+                                  ><span
+                                    ><i class="fa-solid fa-share"></i
+                                    >REPLY</span
+                                  ></a
+                                >
+                              </div>
+                            </div>
+                          </div>
+                          <ol class="children">
+                            <li class="comment">
+                              <div class="comment-body">
+                                <div class="comment-author vcard">
+                                  <img
+                                    class="avatar photo"
+                                    src="images/avatar/avatar2.jpg"
+                                    alt=""
+                                  />
+                                </div>
+                                <div class="comment-info">
+                                  <div class="title">
+                                    <cite class="fn">Lillian Walsh</cite>
+                                    <span>07 March, 2022</span>
+                                  </div>
+                                  <p>
+                                    Integer consectetur diam vitae imperdiet
+                                    iaculis. In faucibus, sem sit amet tincidunt
+                                    egestas, magna ligula interdum leo.
+                                  </p>
+                                  <div class="reply">
+                                    <a
+                                      href="javascript:void(0);"
+                                      class="comment-reply-link"
+                                      ><span
+                                        ><i class="fa-solid fa-share"></i
+                                        >REPLY</span
+                                      ></a
+                                    >
+                                  </div>
+                                </div>
+                              </div>
+                            </li>
+                          </ol>
                         </li>
-                        <li>I enjoy with my whole heart.</li>
-                        <li>
-                          This spot, which was created For the bliss of souls
-                          like mine.
+                        <li class="comment">
+                          <div class="comment-body">
+                            <div class="comment-author vcard">
+                              <img
+                                class="avatar photo"
+                                src="images/avatar/avatar3.jpg"
+                                alt=""
+                              />
+                            </div>
+                            <div class="comment-info">
+                              <div class="title">
+                                <cite class="fn">Boni Joye</cite>
+                                <span>07 March, 2022</span>
+                              </div>
+                              <p>
+                                Integer consectetur diam vitae imperdiet
+                                iaculis. In faucibus, sem sit amet tincidunt
+                                egestas, magna ligula interdum leo.
+                              </p>
+                              <div class="reply">
+                                <a
+                                  href="javascript:void(0);"
+                                  class="comment-reply-link"
+                                  ><span
+                                    ><i class="fa-solid fa-share"></i
+                                    >REPLY</span
+                                  ></a
+                                >
+                              </div>
+                            </div>
+                          </div>
                         </li>
-                      </ul>
-                      <p>
-                        The inner sanctuary, I throw myself down among the tall
-                        grass by the trickling stream; and, as I lie close to
-                        the earth, a thousand unknown plants are noticed by me:
-                        when I hear the buzz of the little world among the
-                        stalks, and grow familiar with the countless
-                        indescribable forms of the insects and flies, then I
-                        feel the presence of the Almighty.
-                      </p>
+                      </ol>
+                      <!-- comment list END -->
+                    </div>
+
+                    <div class="widget-title">
+                      <h4 class="title">Leave A Reply</h4>
+                    </div>
+                    <div class="clearfix">
+                      <!-- Form -->
+                      <div
+                        class="default-form comment-respond style-1"
+                        id="respond"
+                      >
+                        <form
+                          class="comment-form"
+                          id="commentform"
+                          method="post"
+                        >
+                          <p class="">
+                            <label>Name <span class="required">*</span></label>
+                            <input
+                              type="text"
+                              name="FirstName"
+                              placeholder="First Name"
+                              id="FirstName"
+                              class="form-control"
+                            />
+                          </p>
+                          <p class="">
+                            <label>Email <span class="required">*</span></label>
+                            <input
+                              type="text"
+                              placeholder="Email"
+                              name="email"
+                              id="email"
+                              class="form-control"
+                            />
+                          </p>
+                          <p class="comment-form-comment">
+                            <label>Message</label>
+                            <textarea
+                              rows="8"
+                              name="Message"
+                              placeholder="Message"
+                              id="Message"
+                              class="form-control"
+                            ></textarea>
+                          </p>
+                          <p class="form-submit">
+                            <button
+                              type="submit"
+                              class="btn btn-primary btn-skew btn-icon"
+                              id="submit"
+                            >
+                              <span>Submit Now</span>
+                            </button>
+                          </p>
+                        </form>
+                      </div>
+                      <!-- Form -->
                     </div>
                   </div>
                 </div>
               </div>
               <div class="col-xl-4 col-lg-4">
                 <aside class="side-bar sticky-top right">
+                  <div class="widget recent-posts-entry">
+                   
+                    
+                  </div>
+
                   <div class="widget widget_tag_cloud">
                     <div class="widget-title">
                       <h4 class="title">Popular Tags</h4>

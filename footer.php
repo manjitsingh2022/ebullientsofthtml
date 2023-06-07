@@ -8,24 +8,25 @@
         >
           <div class="container">
             <div class="row">
-              <div
-                class="col-xl-4 col-lg-12 col-md-12 wow fadeInUp"
-                data-wow-delay="0.2s"
-              >
+              <div class="col-xl-4 col-lg-12 col-md-12">
                 <div class="widget widget_about">
                   <div class="footer-logo logo-white">
                     <a href="index.html"
-                      ><img src="images/logo-white.png" alt="" width="80px"
+                      ><img src="images/logo-white.png" alt=""
                     /></a>
                   </div>
-                  <p></p>
+                  <!-- <p>
+                    CryptoZone is a Crypto & Crypto Website by DexignZone lorem
+                    ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                    eiusmod tempor incididunt ut labore et
+                  </p> -->
                   <div class="dz-social-icon transparent space-10">
                     <ul>
                       <li>
                         <a
                           target="_blank"
                           class="fab fa-facebook-f"
-                          href="https://www.facebook.com/ebullientsoft"
+                          href="https://www.facebook.com/"
                         ></a>
                       </li>
                       <li>
@@ -38,8 +39,8 @@
                       <li>
                         <a
                           target="_blank"
-                          class="fab fa-linkedin"
-                          href="https://www.linkedin.com/in/ebullient-soft-818318158/"
+                          class="fab fa-twitter"
+                          href="https://twitter.com/"
                         ></a>
                       </li>
                       <li>
@@ -53,25 +54,19 @@
                   </div>
                 </div>
               </div>
-              <div
-                class="col-xl-2 col-lg-4 col-md-4 col-sm-6 wow fadeInUp"
-                data-wow-delay="0.4s"
-              >
+              <div class="col-xl-2 col-lg-4 col-md-4 col-sm-6">
                 <div class="widget widget_services">
                   <h4 class="widget-title">Other Links</h4>
                   <ul>
-                    <li><a href="index.html">Home</a></li>
                     <li><a href="about-us.html">About Us</a></li>
-                    <li><a href="portfolio.html">Portfolio</a></li>
-                    <li><a href="services.html">Services</a></li>
+                    <li><a href="pricing.html">Pricing Plan</a></li>
+                    <li><a href="blog-list.html">Blog List</a></li>
+                    <li><a href="blog-grid.html">Our Blogs</a></li>
                     <li><a href="contact-us.html">Contact Us</a></li>
                   </ul>
                 </div>
               </div>
-              <div
-                class="col-xl-3 col-lg-4 col-sm-6 wow fadeInUp"
-                data-wow-delay="0.6s"
-              >
+              <div class="col-xl-3 col-lg-4 col-sm-6">
                 <div class="widget recent-posts-entry">
                   <h4 class="widget-title">Blog Posts</h4>
                   <div class="widget-post-bx">
@@ -79,7 +74,7 @@
                       <div class="dz-info">
                         <h6 class="title">
                           <a href="blog-details.html"
-                            >What is cryptocurrency and how does it work.</a
+                            >What is Speech Recognition? </a
                           >
                         </h6>
                         <span class="post-date"> JUNE 18, 2022</span>
@@ -90,7 +85,7 @@
                       <div class="dz-info">
                         <h6 class="title">
                           <a href="blog-details.html"
-                            >A cryptocurrency is a digital currency.</a
+                            >Develop AI-based Mobile App with React Native</a
                           >
                         </h6>
                         <span class="post-date"> AUGUST 22, 2022</span>
@@ -99,15 +94,12 @@
                   </div>
                 </div>
               </div>
-              <div
-                class="col-xl-3 col-lg-4 col-sm-12 wow fadeInUp"
-                data-wow-delay="0.8s"
-              >
+              <div class="col-xl-3 col-lg-4 col-sm-12">
                 <div class="widget widget_locations">
                   <h4 class="widget-title">Locations</h4>
                   <div class="clearfix">
-                    <h6 class="title">India</h6>
-                    <p>F-244, Phase 8-B, Industrial Area, Mohali, 160055</p>
+                    <h6 class="title">Washington</h6>
+                    <p>1559 Alabama Ave SE, DC 20032, Washington, USA</p>
                     <img src="images/footer/world-map-with-flags1.png" alt="" />
                   </div>
                 </div>
@@ -115,18 +107,7 @@
             </div>
           </div>
         </div>
-        <!-- Footer Bottom Part -->
-        <div class="footer-bottom text-center">
-          <div class="container">
-            <span class="copyright-text"
-              >Copyright © 2022
-              <a href="https://ebullientsoft.com/" target="_blank"
-                >ebullientsoft</a
-              >. All rights reserved.</span
-            >
-          </div>
-        </div>
-      </footer>
+        </footer>
       <!-- Footer End -->
 
       <!-- Bottom to top -->
