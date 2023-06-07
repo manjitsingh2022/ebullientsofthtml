@@ -78,7 +78,7 @@
   --rgba-primary-7: rgba(255, 48, 0, 0.7);
   --rgba-primary-8: rgba(255, 48, 0, 0.8);
   --rgba-primary-9: rgba(255, 48, 0, 0.9);
-  --body-color: #ff3000;
+  --body-color: #2e1c0e;
   --border-color: #cfdbed;
   --body-bg: #f0f5ff;
   --font-family-base: Poppins, sans-serif;
@@ -22690,7 +22690,7 @@ ul a.rsswidget:hover {
   width: 100%;
 }
 .form-wrapper1.style-1 button:hover {
-  background: #ff3000;
+  background: #000000;
 }
 @media only screen and (max-width: 1480px) {
   .form-wrapper1.style-1 {
