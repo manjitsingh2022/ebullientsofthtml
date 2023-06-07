@@ -147,7 +147,7 @@
                 <div class="col-md-6 m-sm-b30">
                   <div class="dz-card style-1 blog-lg overlay-shine">
                     <div class="dz-media video-bx2 h-auto">
-                      <a href="React-Native-App.html"
+                      <a href="react-native-app.html"
                         ><img src="images/blog/native.png" alt=""
                       /></a>
                     </div>
@@ -166,13 +166,13 @@
                         </ul>
                       </div>
                       <h4 class="dz-title">
-                        <a href="React-Native-App.html"
+                        <a href="react-native-app.html"
                           >Develop AI-based Mobile App with React Native</a
                         >
                       </h4>
                       <p>React Native is a popular framework for building mobile applications. It can be used to develop AI-powered mobile apps. React Native works by allowing....
                       </p>
-                      <a href="React-Native-App.html" class="btn btn-primary"
+                      <a href="react-native-app.html" class="btn btn-primary"
                         >Read More</a
                       >
                     </div>

@@ -171,7 +171,7 @@
                   <div class="col-md-6 m-b30">
                     <div class="dz-card style-1 blog-lg overlay-shine">
                       <div class="dz-media">
-                        <a href="React-Native-App.html"
+                        <a href="react-native-app.html"
                           ><img src="images/blog/native.png" alt=""
                         /></a>
                       </div>
@@ -190,14 +190,14 @@
                           </ul>
                         </div>
                         <h4 class="dz-title">
-                          <a href="React-Native-App.html"
+                          <a href="react-native-app.html"
                             >Develop AI-based Mobile App with React Native</a
                           >
                         </h4>
                         <p>
                           React Native is a popular framework for building mobile applications. It can be used to develop AI-powered mobile apps. React Native works by allowing....
                         </p>
-                        <a href="React-Native-App.html" class="btn btn-primary"
+                        <a href="react-native-app.html" class="btn btn-primary"
                           >Read More</a
                         >
                       </div>
@@ -206,7 +206,7 @@
                   <div class="col-md-6 m-sm-b30">
                     <div class="dz-card style-1 blog-lg overlay-shine">
                       <div class="dz-media video-bx2 h-auto">
-                        <a href="AI-with-python.html"
+                        <a href="ai-with-python.html"
                           ><img src="images/blog/python.jpg" alt=""
                         /></a>
                       </div>
@@ -225,14 +225,14 @@
                           </ul>
                         </div>
                         <h4 class="dz-title">
-                          <a href="AI-with-python.html"
+                          <a href="ai-with-python.html"
                             >How can we create an Artificial Intelligence project with the use of Python?</a
                           >
                         </h4>
                         <p>
                           Creating an Artificial Intelligence project with Python involves several steps, here’s a general overview of the process....
                         </p>
-                        <a href="AI-with-python.html" class="btn btn-primary"
+                        <a href="ai-with-python.html" class="btn btn-primary"
                           >Read More</a
                         >
                       </div>

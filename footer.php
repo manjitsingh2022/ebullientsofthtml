@@ -52,7 +52,7 @@
                     <div class="widget-post clearfix">
                       <div class="dz-info">
                         <h6 class="title">
-                          <a href="blog-details.html">What is Speech Recognition? </a>
+                          <a href="speech-recognition.html">What is Speech Recognition? </a>
                         </h6>
                         <span class="post-date"> JUNE 18, 2022</span>
                       </div>
@@ -61,7 +61,7 @@
                     <div class="widget-post clearfix">
                       <div class="dz-info">
                         <h6 class="title">
-                          <a href="blog-details.html">Develop AI-based Mobile App with React Native</a>
+                          <a href="react-native-app.html">Develop AI-based Mobile App with React Native</a>
                         </h6>
                         <span class="post-date"> AUGUST 22, 2022</span>
                       </div>
