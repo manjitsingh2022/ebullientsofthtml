@@ -26,10 +26,10 @@
   <!-- Banner End -->
 
   <!-- About Box style -1 start  -->
-  <section class="content-inner about-sec bg-primary-light" style="background-image: url(images/background/bnr.png); ">
+  <section class="content-inner about-sec bg-primary-light">
     <div class="container">
       <div class="row about-bx2 style-1 ">
-        <div class="col-lg-6 about-content ps-lg-5 m-b30 wow fadeInUp" data-wow-delay="0.6s">
+        <div class="col-lg-8 about-content ps-lg-5 m-b30 wow fadeInUp" data-wow-delay="0.6s">
           <div class="section-head">
             <h2 class="title">
               <strong>Who We Are</strong>
@@ -39,7 +39,7 @@
             <p class="ptext_color">Our aim is to provide our clients with innovative, yet cost-effective solutions that can keep them at the forefront of technology and give their business an edge. We are committed to using the best business practices in everything we do. Our creative and interactive work culture is geared towards bringing exceptional and distinctive solutions to our clients.</p>
           </div>
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-4">
           <aside class="side-bar sticky-top right">
 
             <div class="widget widget_tag_cloud">
@@ -113,10 +113,5 @@
     </div>
   </section>
 
-
-
 </div>
-
-
-
 <?php require_once("footer.php"); ?>

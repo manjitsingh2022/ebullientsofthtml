@@ -42,7 +42,7 @@
 								<ul>
 									<li>
 										<i class="fa fa-phone"></i>
-										<span>+911724108887</span>
+										<span>+91-172-4108887</span>
 									</li>
 									<li>
 										<i class="fa fa-envelope"></i>
