@@ -13,7 +13,7 @@
 				<!-- Breadcrumb Row -->
 				<nav aria-label="breadcrumb" class="breadcrumb-row">
 					<ul class="breadcrumb">
-						<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+						<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 						<li class="breadcrumb-item active" aria-current="page">Contact Us</li>
 					</ul>
 				</nav>
@@ -32,7 +32,7 @@
 			<div class="row align-items-center">
 				<div class="col-xl-5 col-lg-5 m-b30">
 					<div class="info-box ">
-						<div class="info ">
+						<div>
 							<h2 class="text-muted">Contact Information</h2>
 							<p class="font-18">Fill up the form and our team will get back to you within 24 hours.</p>
 						</div>

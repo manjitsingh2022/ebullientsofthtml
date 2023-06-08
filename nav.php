@@ -1,24 +1,23 @@
 <div class="header-nav navbar-collapse collapse justify-content-end" id="navbarNavDropdown">
   <!-- Mobile Sidebar Logo -->
   <div class="logo-header mostion">
-    <a href="index.html" class="logo-dark"><img src="images/logo.png" alt="" /></a>
+    <a href="index.php" class="logo-dark"><img src="images/logo.png" alt="" /></a>
   </div>
 
   <!-- Navbar nav -->
   <ul class="nav navbar-nav navbar">
     <li><a href="index.php">Home</a></li>
-
     <li><a href="portfolio.php">Portfolio</a></li>
-    <!-- <li><a href="services.html">Services</a></li> -->
+    <!-- <li><a href="services.php">Services</a></li> -->
     <li><a href="blog.php">Blog</a></li>
     <!-- <li><a href="#section1" onclick="showContent('section1')">Services</a></li> -->
-    <!-- <li><a href="pricing.html">Pricing</a></li> -->
+    <!-- <li><a href="pricing.php">Pricing</a></li> -->
     <!-- <li class="sub-menu-down">
                      <a href="javascript:void(0);">Blog</a> -->
     <!-- <ul class="sub-menu">
-                      <li><a href="blog-list.html">Blog list</a></li>
-                      <li><a href="blog-grid.html">Blog grid</a></li>
-                      <li><a href="blog-details.html">Blog details</a></li>
+                      <li><a href="blog-list.php">Blog list</a></li>
+                      <li><a href="blog-grid.php">Blog grid</a></li>
+                      <li><a href="blog-details.php">Blog details</a></li>
                     </ul> 
                   </li> -->
     <li><a href="about.php">About</a></li>

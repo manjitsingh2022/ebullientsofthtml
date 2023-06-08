@@ -35,6 +35,16 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+
+  <!-- <link rel="stylesheet" href="prop/css/bootstrap.css"> -->
+  <link rel="stylesheet" href="prop/vendors/linericon/style.css">
+  <link rel="stylesheet" href="prop/css/font-awesome.min.css">
+  <link rel="stylesheet" href="prop/vendors/owl-carousel/owl.carousel.min.css">
+  <link rel="stylesheet" href="prop/css/magnific-popup.css">
+  <link rel="stylesheet" href="prop/vendors/nice-select/css/nice-select.css">
+  <!-- main css -->
+  <link rel="stylesheet" href="prop/css/style.css">
+
 </head>
 <style>
   .content-section {
@@ -69,8 +79,8 @@
           <div class="container clearfix">
             <!-- Website Logo -->
             <div class="logo-header">
-              <a href="index.html" class="logo-dark"><img src="images/logo.png" alt="" width="60px" /></a>
-              <a href="index.html" class="logo-light"><img src="images/logo-white.png" alt="" width="80px" /></a>
+              <a href="index.php" class="logo-dark"><img src="images/logo.png" alt="" width="60px" /></a>
+              <a href="index.php" class="logo-light"><img src="images/logo-white.png" alt="" width="80px" /></a>
             </div>
 
             <!-- Nav Toggle Button Strat -->
@@ -100,7 +110,7 @@
               <p class="text text-primary wow fadeInUp" data-wow-delay="1.1s">
                 Renew Inner Harmony
               </p>
-              <a href="about-us.html" class="btn space-lg btn-gradient btn-shadow btn-primary wow fadeInUp" data-wow-delay="0.6s">Get a Quote</a>
+              <a href="about-us.php" class="btn space-lg btn-gradient btn-shadow btn-primary wow fadeInUp" data-wow-delay="0.6s">Get a Quote</a>
               <ul class="image-before">
                 <li class="left-img">
                   <img src="images/home-banner/undraw_conference_re_2yld.svg" alt="" />

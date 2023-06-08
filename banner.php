@@ -7,7 +7,7 @@
             <!-- Breadcrumb Row -->
             <nav aria-label="breadcrumb" class="breadcrumb-row">
                 <ul class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Blog Grid</li>
                 </ul>
             </nav>
