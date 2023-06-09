@@ -50,7 +50,7 @@
                         <h6 class="title">
                           <a href="speech-recognition.php">What is Speech Recognition?</a>
                         </h6>
-                        <span class="post-date"> JUNE 18, 2022</span>
+                        <span class="post-date"> Feb 3, 2021</span>
                       </div>
                     </div>
                     <div class="post-separator"></div>
@@ -59,7 +59,7 @@
                         <h6 class="title">
                           <a href="ai-with-python.php">How can we create an Artificial Intelligence project with the use of Python?</a>
                         </h6>
-                        <span class="post-date"> AUGUST 22, 2022</span>
+                        <span class="post-date"> MAY 21, 2022</span>
                       </div>
                     </div>
                   </div>

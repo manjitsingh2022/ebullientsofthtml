@@ -94,7 +94,7 @@
                             </div>
                             <h4 class="dz-title"><a href="speech-recognition.php">What is Speech Recognition?</a></h4>
                             <p> Speech recognition is the technology that allows
-                  machines to understand and interpret human speech.</p>
+                               machines to understand and interpret human speech.</p>
                             <a href="speech-recognition.php" class="btn btn-primary">Read More</a>
                         </div>
                     </div>
