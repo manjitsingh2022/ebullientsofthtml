@@ -108,99 +108,15 @@
             </div>
           </aside>
         </div>
+        <div class="dz-share-post">
+                <div class="post-tags">
+                  <h6 class="m-b0 m-r10 d-inline">Tags:</h6>
+                  <a href="javascript:void(0);"><span>Corporate</span></a>
+                  <a href="javascript:void(0);"><span>Blog</span></a>
+                  <a href="javascript:void(0);"><span>Marketing</span></a>
+                </div>
       </div>
-      <div class="widget-title">
-        <h4 class="title">Related Blog</h4>
-      </div>
-      <div class="row m-b30 m-sm-b10">
-        <div class="col-md-6 m-b30">
-          <div class="dz-card style-1 blog-lg overlay-shine">
-            <div class="dz-media">
-              <a href="speech-recognition.php"><img src="images/blog/speech.jpg" alt="" /></a>
-            </div>
-            <div class="dz-info">
-              <div class="dz-meta">
-                <ul>
-                  <li class="post-author">
-                    <a href="javascript:void(0);">
-                      <img src="images/avatar/avatar2.jpg" alt="" />
-                      <span>By Jemmy</span>
-                    </a>
-                  </li>
-                  <li class="post-date">
-                    <a href="javascript:void(0);"> 24 May 2022</a>
-                  </li>
-                </ul>
-              </div>
-              <h4 class="dz-title">
-                <a href="speech-recognition.php">What is Speech Recognition? </a>
-              </h4>
-              <p>
-                Speech recognition is the technology that allows
-                machines to understand and interpret human speech.
-                Algorithms and machine learning can transform spoken
-                words into text or commands. Computers and other devices
-                can understand and act on them....
-              </p>
-              <a href="speech-recognition.php" class="btn btn-primary">Read More</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6 m-sm-b30">
-          <div class="dz-card style-1 blog-lg overlay-shine">
-            <div class="dz-media video-bx2 h-auto">
-              <a href="AI-with-python.php"><img src="images/blog/python.jpg" alt="" /></a>
-            </div>
-            <div class="dz-info">
-              <div class="dz-meta">
-                <ul>
-                  <li class="post-author">
-                    <a href="javascript:void(0);">
-                      <img src="images/avatar/avatar3.jpg" alt="" />
-                      <span>By uvee</span>
-                    </a>
-                  </li>
-                  <li class="post-date">
-                    <a href="javascript:void(0);"> 25 May 2022</a>
-                  </li>
-                </ul>
-              </div>
-              <h4 class="dz-title">
-                <a href="AI-with-python.php">How can we create an Artificial Intelligence project with the use of Python?</a>
-              </h4>
-              <p> Creating an Artificial Intelligence project with Python involves several steps, here’s a general overview of the process.....</p>
-              <a href="AI-with-python.php" class="btn btn-primary">Read More</a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="widget-title">
-        <h4 class="title">Leave A Reply</h4>
-      </div>
-      <div class="clearfix">
-        <!-- Form -->
-        <div class="default-form comment-respond style-1" id="respond">
-          <form class="comment-form" id="commentform" method="post">
-            <p class="">
-              <label>Name <span class="required">*</span></label>
-              <input type="text" name="FirstName" placeholder="First Name" id="FirstName" class="form-control" />
-            </p>
-            <p class="">
-              <label>Email <span class="required">*</span></label>
-              <input type="text" placeholder="Email" name="email" id="email" class="form-control" />
-            </p>
-            <p class="comment-form-comment">
-              <label>Message</label>
-              <textarea rows="8" name="Message" placeholder="Message" id="Message" class="form-control"></textarea>
-            </p>
-            <p class="form-submit">
-              <button type="submit" class="btn btn-primary btn-skew btn-icon" id="submit">
-                <span>Submit Now</span>
-              </button>
-            </p>
-          </form>
-        </div>
-      </div>
+    
   </section>
   <!-- Blog Details -->
 </div>
