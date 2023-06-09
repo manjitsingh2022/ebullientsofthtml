@@ -152,7 +152,7 @@
               <div class="col-xl-7 col-lg-12">
                 <div class="section-head wow fadeInUp" data-wow-delay="0.2s">
                   <h6 class="sub-title text-primary">FROM OUR BLOG</h6>
-                  <h2 class="title">Recent News &amp; Updates</h2>
+                  <h2 class="title">Recent Blogs &amp; Updates</h2>
                 </div>
                 <div class="dz-card style-1 blog-half m-b30 wow fadeInUp" data-wow-delay="0.4s">
                   <div class="dz-media">
@@ -161,7 +161,7 @@
                     </a>
                     <ul class="dz-badge-list">
                       <li>
-                        <a href="javascript:void(0);" class="dz-badge">14 Fab 2022</a>
+                        <a href="javascript:void(0);" class="dz-badge">14 Feb 2022</a>
                       </li>
                     </ul>
                     <a href="speech-recognition.php" class="btn btn-secondary">Read More</a>
@@ -172,11 +172,11 @@
                         <li class="post-author">
                           <a href="javascript:void(0);">
                             <img src="images/avatar/avatar2.jpg" alt="" />
-                            <span>By Noare</span>
+                            <span>Manjeet Singh</span>
                           </a>
                         </li>
                         <li class="post-date">
-                          <a href="javascript:void(0);"> 21 May 2021</a>
+                          <a href="javascript:void(0);"> 3 Feb 2021</a>
                         </li>
                       </ul>
                     </div>
@@ -196,7 +196,7 @@
                     </a>
                     <ul class="dz-badge-list">
                       <li>
-                        <a href="javascript:void(0);" class="dz-badge">14 Fab 2022</a>
+                        <a href="javascript:void(0);" class="dz-badge">14 Feb 2022</a>
                       </li>
                     </ul>
                     <a href="mobile-native.php" class="btn btn-secondary">Read More</a>
@@ -207,11 +207,11 @@
                         <li class="post-author">
                           <a href="javascript:void(0);">
                             <img src="images/avatar/avatar2.jpg" alt="" />
-                            <span>By Noare</span>
+                            <span>Harpreet Kaur</span>
                           </a>
                         </li>
                         <li class="post-date">
-                          <a href="javascript:void(0);"> 21 May 2021</a>
+                          <a href="javascript:void(0);"> 5 Aug 2021</a>
                         </li>
                       </ul>
                     </div>
@@ -231,7 +231,7 @@
                   <div class="dz-category">
                     <ul class="dz-badge-list">
                       <li>
-                        <a href="javascript:void(0);" class="dz-badge">14 Fab 2022</a>
+                        <a href="javascript:void(0);" class="dz-badge">14 Feb 2022</a>
                       </li>
                     </ul>
                   </div>
@@ -244,7 +244,7 @@
                         <li class="post-author">
                           <a href="javascript:void(0);">
                             <img src="images/avatar/avatar3.jpg" alt="" />
-                            <span>By Noare</span>
+                            <span>Baljeet Singh</span>
                           </a>
                         </li>
                         <li class="post-date">
