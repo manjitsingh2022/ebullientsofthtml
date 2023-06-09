@@ -5,7 +5,7 @@
   <div class="dz-bnr-inr style-1 text-center">
     <div class="container">
       <div class="dz-bnr-inr-entry">
-        <h1 class="text-center">What is Speech Recognition?</h1>
+        <h1 class="text-center">Develop AI based Mobile App with React Native</h1>
         <!-- Breadcrumb Row -->
         <nav aria-label="breadcrumb" class="breadcrumb-row">
           <ul class="breadcrumb">
@@ -110,15 +110,14 @@
           </aside>
         </div>
         <div class="dz-share-post">
-          <div class="post-tags">
-            <h6 class="m-b0 m-r10 d-inline">Tags:</h6>
-            <a href="javascript:void(0);"><span>Corporate</span></a>
-            <a href="javascript:void(0);"><span>Blog</span></a>
-            <a href="javascript:void(0);"><span>Marketing</span></a>
-          </div>
-        </div>
-
-  </section>
+                <div class="post-tags">
+                  <h6 class="m-b0 m-r10 d-inline">Tags:</h6>
+                  <a href="javascript:void(0);"><span>Corporate</span></a>
+                  <a href="javascript:void(0);"><span>Blog</span></a>
+                  <a href="javascript:void(0);"><span>Marketing</span></a>
+                </div>
+      </div>
+    </section>
   <!-- Blog Details -->
 </div>
 <!-- Page Content End -->
