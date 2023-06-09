@@ -52,19 +52,7 @@
                 Creating an Artificial Intelligence project with Python involves several steps, here’s a general overview of the process:
               </h3>
               <div class="dz-post-text">
-                <!-- <p>
-                            How can we create an Artificial Intelligence project with the use of Python?
-                        </p> -->
-
-                <!-- <blockquote class="wp-block-quote">
-                          <p>
-                            “ A wonderful serenity has taken possession of my
-                            entire soul, like these sweet mornings of spring which
-                            I enjoy with my whole heart. I am alone, and feel the
-                            charm. ”.
-                          </p>
-                          <cite> William Son </cite>
-                        </blockquote> -->
+           
                 <p>
                   <b>1. Choose an AI problem to solve:</b> Select a problem that requires AI technology, such as image classification, speech recognition, natural language processing, or predictive modeling.
                   <br />
@@ -99,15 +87,15 @@
               </div>
             </div>
           </aside>
-        </div>
-      </div>
-      <div class="dz-share-post">
+          <div class="dz-share-post">
                 <div class="post-tags">
                   <h6 class="m-b0 m-r10 d-inline">Tags:</h6>
                   <a href="javascript:void(0);"><span>Corporate</span></a>
                   <a href="javascript:void(0);"><span>Blog</span></a>
                   <a href="javascript:void(0);"><span>Marketing</span></a>
                 </div>
+        </div>
+      </div>   
   </section>
 
 </div>
