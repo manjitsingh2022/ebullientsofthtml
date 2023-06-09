@@ -35,7 +35,7 @@
             <div class="dz-media dz-media-rounded">
               <img src="images/blog/blog-detaills-1.jpg" alt="">
             </div>
-            <div class="dz-info m-b30">
+            <!-- <div class="dz-info m-b30">
               <div class="dz-meta">
                 <ul>
                   <li class="post-author">
@@ -56,7 +56,7 @@
 
               </div>
 
-            </div>
+            </div> -->
           </div>
 
         </div>
