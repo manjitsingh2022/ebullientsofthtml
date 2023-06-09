@@ -31,7 +31,7 @@
         <div class="col-xl-8 col-lg-8">
           <div class="blog-single dz-card sidebar">
             <div class="dz-media dz-media-rounded">
-              <img src="images/blog/native.png" alt="" />
+              <img src="images/blog/native1.jpg" alt="" />
             </div>
             <div class="dz-info m-b30">
               <div class="dz-meta">

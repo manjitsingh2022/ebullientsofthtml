@@ -55,7 +55,7 @@
                 <div class="col-md-6 col-xl-4 m-b30">
                     <div class="dz-card style-1 blog-lg overlay-shine">
                         <div class="dz-media ">
-                            <a href="python-details.php"><img src="images/blog/python.jpg" alt=""></a>
+                            <a href="ai-with-python.php"><img src="images/blog/python.jpg" alt=""></a>
                         </div>
                         <div class="dz-info">
                             <div class="dz-meta">
@@ -71,14 +71,14 @@
                             </div>
                             <h4 class="dz-title"><a href="python-details.php">How can we create an Artificial Intelligence project with the use of Python?</a></h4>
                             <p> Creating an Artificial Intelligence project with Python involves several steps, here’s a general overview of the process...</p>
-                            <a href="python-details.php" class="btn btn-primary">Read More</a>
+                            <a href="ai-with-python.php" class="btn btn-primary">Read More</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-xl-4 m-b30">
                     <div class="dz-card style-1  blog-lg overlay-shine">
                         <div class="dz-media ">
-                            <a href="ui-ux.php"><img src="images/blog/pic3.jpg" alt=""></a>
+                            <a href="mobile-native.php"><img src="images/blog/native1.jpg" alt=""></a>
                         </div>
                         <div class="dz-info">
                             <div class="dz-meta">
@@ -92,9 +92,9 @@
                                     <li class="post-date"><a href="javascript:void(0);"> 22 May 2022</a></li>
                                 </ul>
                             </div>
-                            <h4 class="dz-title"><a href="ui-ux.php">14 Days To A Better Crypto Currency</a></h4>
-                            <p>A wonderful serenity has taken of my entire soul, like these.</p>
-                            <a href="ui-ux.php" class="btn btn-primary">Read More</a>
+                            <h4 class="dz-title"><a href="mobile-native.php">Develop AI based Mobile App with React Native</a></h4>
+                            <p> React Native is a popular framework for building mobile applications. It can be used to develop AI-powered mobile apps.</p>
+                            <a href="mobile-native.php" class="btn btn-primary">Read More</a>
                         </div>
                     </div>
                 </div>
