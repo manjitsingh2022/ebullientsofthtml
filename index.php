@@ -152,7 +152,7 @@
               <div class="col-xl-7 col-lg-12">
                 <div class="section-head wow fadeInUp" data-wow-delay="0.2s">
                   <h6 class="sub-title text-primary">FROM OUR BLOG</h6>
-                  <h2 class="title">Recent Blogs &amp; Updates</h2>
+                  <h2 class="title">Recent News &amp; Updates</h2>
                 </div>
                 <div class="dz-card style-1 blog-half m-b30 wow fadeInUp" data-wow-delay="0.4s">
                   <div class="dz-media">
@@ -191,7 +191,7 @@
                 </div>
                 <div class="dz-card style-1 blog-half m-b30 wow fadeInUp" data-wow-delay="0.6s">
                   <div class="dz-media">
-                    <a href="react-native-app.php">
+                    <a href="mobile-native.php">
                       <img src="images/blog/native1.jpg" alt=""/>  
                     </a>
                     <ul class="dz-badge-list">
@@ -199,7 +199,7 @@
                         <a href="javascript:void(0);" class="dz-badge">14 Fab 2022</a>
                       </li>
                     </ul>
-                    <a href="react-native-app.php" class="btn btn-secondary">Read More</a>
+                    <a href="mobile-native.php" class="btn btn-secondary">Read More</a>
                   </div>
                   <div class="dz-info">
                     <div class="dz-meta">
@@ -216,7 +216,7 @@
                       </ul>
                     </div>
                     <h4 class="dz-title">
-                      <a href="react-native-app.php">Develop AI-based Mobile App with React Native</a>
+                      <a href="mobile-native.php">Develop AI-based Mobile App with React Native</a>
                     </h4>
                     <p class="m-b0">
                     React Native is a popular framework for building mobile applications. It can be used to develop AI-powered mobile apps.

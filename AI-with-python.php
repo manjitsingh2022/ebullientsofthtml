@@ -4,7 +4,7 @@
   <div class="dz-bnr-inr style-1 text-center">
     <div class="container">
       <div class="dz-bnr-inr-entry">
-        <h1 class="text-center">What is Speech Recognition?</h1>
+        <h1 class="text-center">How can we create an Artificial Intelligence project with the use of Python?</h1>
         <!-- Breadcrumb Row -->
         <nav aria-label="breadcrumb" class="breadcrumb-row">
           <ul class="breadcrumb">
@@ -141,7 +141,7 @@
         <div class="col-md-6 m-sm-b30">
           <div class="dz-card style-1 blog-lg overlay-shine">
             <div class="dz-media video-bx2 h-auto">
-              <a href="react-native-app.php"><img src="images/blog/native.png" alt="" /></a>
+              <a href="mobile-native.php"><img src="images/blog/native.png" alt="" /></a>
             </div>
             <div class="dz-info">
               <div class="dz-meta">
@@ -158,11 +158,11 @@
                 </ul>
               </div>
               <h4 class="dz-title">
-                <a href="react-native-app.php">Develop AI-based Mobile App with React Native</a>
+                <a href="mobile-native.php">Develop AI-based Mobile App with React Native</a>
               </h4>
               <p>React Native is a popular framework for building mobile applications. It can be used to develop AI-powered mobile apps. React Native works by allowing....
               </p>
-              <a href="react-native-app.php" class="btn btn-primary">Read More</a>
+              <a href="mobile-native.php" class="btn btn-primary">Read More</a>
             </div>
           </div>
         </div>

@@ -235,7 +235,7 @@
                   <a target="_blank" class="fab fa-twitter" href="https://twitter.com/"></a>
                 </li>
                 <li>
-                  <a target="_blank" class="fab fa-youtube" href="https://youtube.com/"></a>
+                  <a target="_blank" class="fab fa-youtube" href="https://youtube.com/"></a> 
                 </li>
               </ul>
             </div>
