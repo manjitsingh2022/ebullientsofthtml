@@ -14,6 +14,7 @@
             </li>
           </ul>
         </nav>
+
         <!-- Breadcrumb Row End -->
       </div>
     </div>
@@ -52,7 +53,7 @@
                 Creating an Artificial Intelligence project with Python involves several steps, here’s a general overview of the process:
               </h3>
               <div class="dz-post-text">
-           
+
                 <p>
                   <b>1. Choose an AI problem to solve:</b> Select a problem that requires AI technology, such as image classification, speech recognition, natural language processing, or predictive modeling.
                   <br />
@@ -76,7 +77,7 @@
                 <h4 class="title">Popular Tags</h4>
               </div>
               <div class="tagcloud">
-              <a href="mobile-native.php">Mobile App</a>
+                <a href="mobile-native.php">Mobile App</a>
                 <a href="mobile-native.php">React Native</a>
                 <a href="speech-recognition.php">Speech Recognition</a>
                 <a href="blog.php">AI</a>
@@ -85,7 +86,7 @@
             </div>
           </aside>
         </div>
-      </div>   
+      </div>
   </section>
 
 </div>
