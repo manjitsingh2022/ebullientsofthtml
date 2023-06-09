@@ -39,15 +39,15 @@
                   <li class="post-author">
                     <a href="javascript:void(0);">
                       <img src="images/avatar/avatar3.jpg" alt="" />
-                      <span>By Jone Doe</span>
+                      <span>Harpreet Kaur</span>
                     </a>
                   </li>
                   <li class="post-date">
-                    <a href="javascript:void(0);"> 7 Jan 2021</a>
+                    <a href="javascript:void(0);"> 5 Aug 2021</a>
                   </li>
-                  <li class="post-comment">
+                  <!-- <li class="post-comment">
                     <a href="javascript:void(0);">3 comment</a>
-                  </li>
+                  </li> -->
                 </ul>
               </div>
               <!-- <h3 class="dz-title">
