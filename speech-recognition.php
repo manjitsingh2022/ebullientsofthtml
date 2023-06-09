@@ -130,23 +130,17 @@
         <div class="col-xl-4 col-lg-4">
           <aside class="side-bar sticky-top right">
             <div class="widget recent-posts-entry">
-
-
             </div>
-
             <div class="widget widget_tag_cloud">
               <div class="widget-title">
                 <h4 class="title">Popular Tags</h4>
               </div>
               <div class="tagcloud">
-                <a href="javascript:void(0);">Business</a>
-                <a href="javascript:void(0);">Corporate</a>
-                <a href="javascript:void(0);">Blog</a>
-                <a href="javascript:void(0);">Marketing</a>
-                <a href="javascript:void(0);">Creative</a>
-                <a href="javascript:void(0);">Web</a>
-                <a href="javascript:void(0);">Workers</a>
-                <a href="javascript:void(0);">Modern</a>
+                <a href="mobile-native.php">Mobile App</a>
+                <a href="mobile-native.php">React Native</a>
+                <a href="speech-recognition.php">Speech Recognition</a>
+                <a href="blog.php">AI</a>
+                <a href="blog.php">Python</a>
               </div>
             </div>
           </aside>

@@ -159,11 +159,11 @@
                     <a href="speech-recognition.php">
                       <img src="images/blog/speech.jpg" alt="" /> 
                     </a>
-                    <ul class="dz-badge-list">
+                    <!-- <ul class="dz-badge-list">
                       <li>
-                        <a href="javascript:void(0);" class="dz-badge">14 Feb 2022</a>
+                        <a href="javascript:void(0);" class="dz-badge">15 Jan 2022</a>
                       </li>
-                    </ul>
+                    </ul> -->
                     <a href="speech-recognition.php" class="btn btn-secondary">Read More</a>
                   </div>
                   <div class="dz-info">
@@ -194,11 +194,11 @@
                     <a href="mobile-native.php">
                       <img src="images/blog/native1.jpg" alt=""/>  
                     </a>
-                    <ul class="dz-badge-list">
+                    <!-- <ul class="dz-badge-list">
                       <li>
-                        <a href="javascript:void(0);" class="dz-badge">14 Feb 2022</a>
+                        <a href="javascript:void(0);" class="dz-badge">4 Feb 2022</a>
                       </li>
-                    </ul>
+                    </ul> -->
                     <a href="mobile-native.php" class="btn btn-secondary">Read More</a>
                   </div>
                   <div class="dz-info">
@@ -229,11 +229,11 @@
                     <img src="images/blog/python.jpg" alt=""/>  
                 
                   <div class="dz-category">
-                    <ul class="dz-badge-list">
+                    <!-- <ul class="dz-badge-list">
                       <li>
-                        <a href="javascript:void(0);" class="dz-badge">14 Feb 2022</a>
+                        <a href="javascript:void(0);" class="dz-badge">14 Sep 2022</a>
                       </li>
-                    </ul>
+                    </ul> -->
                   </div>
                   <div class="dz-info">
                     <h2 class="dz-title">
