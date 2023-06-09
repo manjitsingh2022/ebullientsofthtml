@@ -52,14 +52,13 @@
                 <h4 class="title">Popular Tags</h4>
               </div>
               <div class="tagcloud">
-                <a href="javascript:void(0);">Business</a>
-                <a href="javascript:void(0);">Corporate</a>
-                <a href="javascript:void(0);">Blog</a>
-                <a href="javascript:void(0);">Marketing</a>
-                <a href="javascript:void(0);">Creative</a>
-                <a href="javascript:void(0);">Web</a>
-                <a href="javascript:void(0);">Workers</a>
-                <a href="javascript:void(0);">Modern</a>
+                <a>ReactJS</a>
+                <a>Node.js</a>
+                <a>JavaScript</a>
+                <a>PHP</a>
+                <a>Python</a>
+                <a>HTML</a>
+                <a>CSS</a>
               </div>
             </div>
           </aside>
