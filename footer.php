@@ -50,7 +50,7 @@
                         <h6 class="title">
                           <a href="speech-recognition.php">What is Speech Recognition?</a>
                         </h6>
-                        <span class="post-date"> Feb 3, 2021</span>
+                        <span class="post-date"> FEB 3, 2021</span>
                       </div>
                     </div>
                     <div class="post-separator"></div>
