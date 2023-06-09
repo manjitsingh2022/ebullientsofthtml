@@ -32,7 +32,7 @@
                 <div class="col-md-6 col-xl-4 m-b30">
                     <div class="dz-card style-1 blog-lg overlay-shine">
                         <div class="dz-media">
-                            <a href="speech-recognition.php"><img src="images/blog/native.png" alt=""></a>
+                            <a href="mobile.native.php"><img src="images/blog/native.png" alt=""></a>
                         </div>
                         <div class="dz-info">
                             <div class="dz-meta">
@@ -40,10 +40,10 @@
                                     <li class="post-author">
                                         <a href="javascript:void(0);">
                                             <img src="images/avatar/avatar1.jpg" alt="">
-                                            <span>By Noare</span>
+                                            <span>Harpreet Kaur</span>
                                         </a>
                                     </li>
-                                    <li class="post-date"><a href="javascript:void(0);"> 12 May 2022</a></li>
+                                    <li class="post-date"><a href="javascript:void(0);"> 5 Aug 2021</a></li>
                                 </ul>
                             </div>
                             <h4 class="dz-title"><a href="speech-recognition.php">Develop AI-based Mobile App with React Native</a></h4>
@@ -63,10 +63,10 @@
                                     <li class="post-author">
                                         <a href="javascript:void(0);">
                                             <img src="images/avatar/avatar2.jpg" alt="">
-                                            <span>By Frenchi</span>
+                                            <span>Baljeet Singh</span>
                                         </a>
                                     </li>
-                                    <li class="post-date"><a href="javascript:void(0);"> 18 May 2022</a></li>
+                                    <li class="post-date"><a href="javascript:void(0);"> 21 May 2022</a></li>
                                 </ul>
                             </div>
                             <h4 class="dz-title"><a href="python-details.php">How can we create an Artificial Intelligence project with the use of Python?</a></h4>
@@ -78,7 +78,7 @@
                 <div class="col-md-6 col-xl-4 m-b30">
                     <div class="dz-card style-1  blog-lg overlay-shine">
                         <div class="dz-media ">
-                            <a href="mobile-native.php"><img src="images/blog/native1.jpg" alt=""></a>
+                            <a href="speech-recognition.php"><img src="images/blog/speech.jpg" alt=""></a>
                         </div>
                         <div class="dz-info">
                             <div class="dz-meta">
@@ -86,15 +86,16 @@
                                     <li class="post-author">
                                         <a href="javascript:void(0);">
                                             <img src="images/avatar/avatar3.jpg" alt="">
-                                            <span>By Bucher</span>
+                                            <span>Manjeet Singh</span>
                                         </a>
                                     </li>
-                                    <li class="post-date"><a href="javascript:void(0);"> 22 May 2022</a></li>
+                                    <li class="post-date"><a href="javascript:void(0);"> 3 Feb 2021</a></li>
                                 </ul>
                             </div>
-                            <h4 class="dz-title"><a href="mobile-native.php">Develop AI based Mobile App with React Native</a></h4>
-                            <p> React Native is a popular framework for building mobile applications. It can be used to develop AI-powered mobile apps.</p>
-                            <a href="mobile-native.php" class="btn btn-primary">Read More</a>
+                            <h4 class="dz-title"><a href="speech-recognition.php">What is Speech Recognition?</a></h4>
+                            <p> Speech recognition is the technology that allows
+                  machines to understand and interpret human speech.</p>
+                            <a href="speech-recognition.php" class="btn btn-primary">Read More</a>
                         </div>
                     </div>
                 </div>
