@@ -46,9 +46,9 @@
                                     <li class="post-date"><a href="javascript:void(0);"> 5 Aug 2021</a></li>
                                 </ul>
                             </div>
-                            <h4 class="dz-title"><a href="speech-recognition.php">Develop AI-based Mobile App with React Native</a></h4>
+                            <h4 class="dz-title"><a href="mobile-native.php">Develop AI-based Mobile App with React Native</a></h4>
                             <p>React Native is a popular framework for building mobile applications. It can be used to develop AI-powered mobile apps. React Native works by allowing....</p>
-                            <a href="speech-recognition.php" class="btn btn-primary">Read More</a>
+                            <a href="mobile-native.php" class="btn btn-primary">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
                                     <li class="post-date"><a href="javascript:void(0);"> 21 May 2022</a></li>
                                 </ul>
                             </div>
-                            <h4 class="dz-title"><a href="python-details.php">How can we create an Artificial Intelligence project with the use of Python?</a></h4>
+                            <h4 class="dz-title"><a href="ai-with-python.php">How can we create an Artificial Intelligence project with the use of Python?</a></h4>
                             <p> Creating an Artificial Intelligence project with Python involves several steps, here’s a general overview of the process...</p>
                             <a href="ai-with-python.php" class="btn btn-primary">Read More</a>
                         </div>
