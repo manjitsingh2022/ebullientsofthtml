@@ -48,7 +48,7 @@
                     <div class="widget-post clearfix">
                       <div class="dz-info">
                         <h6 class="title">
-                          <a href="blog-details.php">What is cryptocurrency and how does it work.</a>
+                          <a href="speech-recognition.php">What is Speech Recognition?</a>
                         </h6>
                         <span class="post-date"> JUNE 18, 2022</span>
                       </div>
@@ -57,7 +57,7 @@
                     <div class="widget-post clearfix">
                       <div class="dz-info">
                         <h6 class="title">
-                          <a href="blog-details.php">A cryptocurrency is a digital currency.</a>
+                          <a href="ai-with-python.php">How can we create an Artificial Intelligence project with the use of Python?</a>
                         </h6>
                         <span class="post-date"> AUGUST 22, 2022</span>
                       </div>
