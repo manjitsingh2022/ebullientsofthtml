@@ -114,15 +114,7 @@
                   improved accuracy.
                 </p>
               </div>
-              <div class="dz-share-post">
-                <div class="post-tags">
-                  <h6 class="m-b0 m-r10 d-inline">Tags:</h6>
-                  <a href="javascript:void(0);"><span>Corporate</span></a>
-                  <a href="javascript:void(0);"><span>Blog</span></a>
-                  <a href="javascript:void(0);"><span>Marketing</span></a>
-                </div>
 
-              </div>
             </div>
           </div>
 
