@@ -148,115 +148,115 @@
   <img class="bg-shape1" src="images/home-banner/shape1.png" alt="" width="60px" />
 
   <div class="container">
-    <div class="row">
-      <div class="col-xl-7 col-lg-12">
-        <div class="section-head wow fadeInUp" data-wow-delay="0.2s">
-          <h6 class="sub-title text-primary">FROM OUR BLOG</h6>
-          <h2 class="title">Recent News &amp; Updates</h2>
-        </div>
-        <div class="dz-card style-1 blog-half m-b30 wow fadeInUp" data-wow-delay="0.4s">
-          <div class="dz-media">
-            <a href="blog-details.php">
-              <!-- <img src="images/blog/pic1.jpg" alt=""/>  use 700*500 pic  -->
-            </a>
-            <ul class="dz-badge-list">
-              <li>
-                <a href="javascript:void(0);" class="dz-badge">14 Fan 2022</a>
-              </li>
-            </ul>
-            <a href="blog-details.php" class="btn btn-secondary">Read More</a>
-          </div>
-          <div class="dz-info">
-            <div class="dz-meta">
-              <ul>
-                <li class="post-author">
-                  <a href="javascript:void(0);">
-                    <img src="images/avatar/avatar1.jpg" alt="" />
-                    <span>By Noare</span>
-                  </a>
-                </li>
-                <li class="post-date">
-                  <a href="javascript:void(0);"> 12 May 2022</a>
-                </li>
-              </ul>
+            <div class="row">
+              <div class="col-xl-7 col-lg-12">
+                <div class="section-head wow fadeInUp" data-wow-delay="0.2s">
+                  <h6 class="sub-title text-primary">FROM OUR BLOG</h6>
+                  <h2 class="title">Recent Blogs &amp; Updates</h2>
+                </div>
+                <div class="dz-card style-1 blog-half m-b30 wow fadeInUp" data-wow-delay="0.4s">
+                  <div class="dz-media">
+                    <a href="speech-recognition.php">
+                      <img src="images/blog/speech.jpg" alt="" /> 
+                    </a>
+                    <ul class="dz-badge-list">
+                      <li>
+                        <a href="javascript:void(0);" class="dz-badge">14 Fab 2022</a>
+                      </li>
+                    </ul>
+                    <a href="speech-recognition.php" class="btn btn-secondary">Read More</a>
+                  </div>
+                  <div class="dz-info">
+                    <div class="dz-meta">
+                      <ul>
+                        <li class="post-author">
+                          <a href="javascript:void(0);">
+                            <img src="images/avatar/avatar2.jpg" alt="" />
+                            <span>By Noare</span>
+                          </a>
+                        </li>
+                        <li class="post-date">
+                          <a href="javascript:void(0);"> 21 May 2021</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <h4 class="dz-title">
+                      <a href="speech-recognition.php">What is Speech Recognition?</a>
+                    </h4>
+                    <p class="m-b0">
+                    Speech recognition is the technology that allows
+                    machines to understand and interpret human speech.
+                    </p>
+                  </div>
+                </div>
+                <div class="dz-card style-1 blog-half m-b30 wow fadeInUp" data-wow-delay="0.6s">
+                  <div class="dz-media">
+                    <a href="react-native-app.php">
+                      <img src="images/blog/native1.jpg" alt=""/>  
+                    </a>
+                    <ul class="dz-badge-list">
+                      <li>
+                        <a href="javascript:void(0);" class="dz-badge">14 Fab 2022</a>
+                      </li>
+                    </ul>
+                    <a href="react-native-app.php" class="btn btn-secondary">Read More</a>
+                  </div>
+                  <div class="dz-info">
+                    <div class="dz-meta">
+                      <ul>
+                        <li class="post-author">
+                          <a href="javascript:void(0);">
+                            <img src="images/avatar/avatar2.jpg" alt="" />
+                            <span>By Noare</span>
+                          </a>
+                        </li>
+                        <li class="post-date">
+                          <a href="javascript:void(0);"> 21 May 2021</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <h4 class="dz-title">
+                      <a href="react-native-app.php">Develop AI-based Mobile App with React Native</a>
+                    </h4>
+                    <p class="m-b0">
+                    React Native is a popular framework for building mobile applications. It can be used to develop AI-powered mobile apps.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xl-5 col-lg-12 m-b30 wow fadeInUp" data-wow-delay="0.8s">
+                <div class="dz-card style-2">
+                    <img src="images/blog/python.jpg" alt=""/>  
+                
+                  <div class="dz-category">
+                    <ul class="dz-badge-list">
+                      <li>
+                        <a href="javascript:void(0);" class="dz-badge">14 Fab 2022</a>
+                      </li>
+                    </ul>
+                  </div>
+                  <div class="dz-info">
+                    <h2 class="dz-title">
+                      <a href="ai-with-python.php" class="text-white">How can we create an Artificial Intelligence project with the use of Python?</a>
+                    </h2>
+                    <div class="dz-meta">
+                      <ul>
+                        <li class="post-author">
+                          <a href="javascript:void(0);">
+                            <img src="images/avatar/avatar3.jpg" alt="" />
+                            <span>By Noare</span>
+                          </a>
+                        </li>
+                        <li class="post-date">
+                          <a href="javascript:void(0);"> 21 May 2022</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-            <h4 class="dz-title">
-              <a href="blog-details.php">Five Things To Avoid In Cryptocurrency.</a>
-            </h4>
-            <p class="m-b0">
-              Nostrud tem exrcitation duis laboris nisi ut aliquip sed
-              duis aute.
-            </p>
           </div>
-        </div>
-        <div class="dz-card style-1 blog-half m-b30 wow fadeInUp" data-wow-delay="0.6s">
-          <div class="dz-media">
-            <a href="blog-details.php">
-              <!-- <img src="images/blog/pic2.jpg" alt=""/>  use 700*500 pic -->
-            </a>
-            <ul class="dz-badge-list">
-              <li>
-                <a href="javascript:void(0);" class="dz-badge">14 Fan 2022</a>
-              </li>
-            </ul>
-            <a href="blog-details.php" class="btn btn-secondary">Read More</a>
-          </div>
-          <div class="dz-info">
-            <div class="dz-meta">
-              <ul>
-                <li class="post-author">
-                  <a href="javascript:void(0);">
-                    <img src="images/avatar/avatar2.jpg" alt="" />
-                    <span>By Noare</span>
-                  </a>
-                </li>
-                <li class="post-date">
-                  <a href="javascript:void(0);"> 12 May 2022</a>
-                </li>
-              </ul>
-            </div>
-            <h4 class="dz-title">
-              <a href="blog-details.php">Things That Make You Love Cryptocurrency.</a>
-            </h4>
-            <p class="m-b0">
-              Nostrud tem exrcitation duis laboris nisi ut aliquip sed
-              duis aute.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-xl-5 col-lg-12 m-b30 wow fadeInUp" data-wow-delay="0.8s">
-        <div class="dz-card style-2">
-          <!-- style="background-image: url(images/blog/blog-ig.png)"  use 482 * 622 pic -->
-          <div class="dz-category">
-            <ul class="dz-badge-list">
-              <li>
-                <a href="javascript:void(0);" class="dz-badge">14 Fan 2022</a>
-              </li>
-            </ul>
-          </div>
-          <div class="dz-info">
-            <h2 class="dz-title">
-              <a href="blog-details.php" class="text-white">Directly support individuals Crypto</a>
-            </h2>
-            <div class="dz-meta">
-              <ul>
-                <li class="post-author">
-                  <a href="javascript:void(0);">
-                    <img src="images/avatar/avatar3.jpg" alt="" />
-                    <span>By Noare</span>
-                  </a>
-                </li>
-                <li class="post-date">
-                  <a href="javascript:void(0);"> 12 May 2022</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 </section>
 <!-- From Our Blog End -->
 </div>
