@@ -8,7 +8,7 @@
   <ul class="nav navbar-nav navbar">
     <li><a href="index.php">Home</a></li>
     <li><a href="portfolio.php">Portfolio</a></li>
-    <li><a href="#sectionservice">Services</a></li>
+    <li><a href="index.php#sectionservice">Services</a></li>
     <li><a href="blog.php">Blog</a></li>
     <li><a href="about.php">About</a></li>
     <li><a href="contactus.php">Contact</a></li>

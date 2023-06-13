@@ -36,7 +36,7 @@
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about-us.php">About Us</a></li>
                     <li><a href="portfolio.php">Portfolio</a></li>
-                    <li><a href="service.php">Services</a></li>
+                    <li><a href="index.php#sectionservice">Services</a></li>
                     <li><a href="contact-us.php">Contact Us</a></li>
                   </ul>
                 </div>
