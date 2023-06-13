@@ -34,10 +34,10 @@
                   <h4 class="widget-title">Other Links</h4>
                   <ul>
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="about-us.php">About Us</a></li>
+                    <li><a href="about.php">About Us</a></li>
                     <li><a href="portfolio.php">Portfolio</a></li>
                     <li><a href="index.php#sectionservice">Services</a></li>
-                    <li><a href="contact-us.php">Contact Us</a></li>
+                    <li><a href="contactus.php">Contact Us</a></li>
                   </ul>
                 </div>
               </div>

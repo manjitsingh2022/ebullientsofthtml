@@ -110,7 +110,7 @@
               <p class="text text-primary wow fadeInUp" data-wow-delay="1.1s">
                 Renew Inner Harmony
               </p>
-              <a href="about-us.php" class="btn space-lg btn-gradient btn-shadow btn-primary wow fadeInUp" data-wow-delay="0.6s">Get a Quote</a>
+              <a href="contactus.php" class="btn space-lg btn-gradient btn-shadow btn-primary wow fadeInUp" data-wow-delay="0.6s">Get a Quote</a>
               <ul class="image-before">
                 <li class="left-img">
                   <img src="images/home-banner/undraw_conference_re_2yld.svg" alt="" />
