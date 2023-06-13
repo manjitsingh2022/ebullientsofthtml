@@ -27,20 +27,30 @@
     <!-- Banner End -->
 
     <section class="portfolio_area section_gap_top " id="portfolio">
-                <div class="filters portfolio-filter">
-                    <ul>
-                        <li class="active" data-filter="*">ALL</li>
-                        <li data-filter=".react">REACT</li>
-                        <li data-filter=".cms">CMS</li>
-                        <li data-filter=".php">PHP FRAMEWORK </li>
-                        <li data-filter=".uix">UI/UX</li>
-                        <li data-filter=".wordpress">WORDPRESS</li>
-                    </ul>
+        <div class="container">
+            <!-- <div class="row">
+            <div class="col-lg-12">
+                <div class="main_title text-left">
+                    <h2>quality work <br>
+                        Recently done project </h2>
                 </div>
-    
-                <div class="filters-content">
-                    <div class="row portfolio-grid justify-content-center">
-                        <div class="col-lg-4 col-md-6 all cms">
+            </div>
+        </div> -->
+            <div class="filters portfolio-filter">
+                <ul>
+                    <li class="active" data-filter="*">ALL</li>
+                    <li data-filter=".react">REACT</li>
+                    <li data-filter=".cms">CMS</li>
+                    <li data-filter=".php">PHP FRAMEWORK </li>
+                    <li data-filter=".uix">UI/UX</li>
+                    <li data-filter=".wordpress">WORDPRESS</li>
+                </ul>
+            </div>
+
+            <div class="filters-content">
+                <div class="row portfolio-grid justify-content-center">
+                   
+                    <div class="col-lg-4 col-md-6 all cms">
                             <div class="portfolio_box">
                                 <div class="single_portfolio">
                                     <img class="img-fluid w-100" src="prop/img/portfolio/php.png" alt="">
@@ -57,7 +67,8 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 all react">
+                  
+                    <div class="col-lg-4 col-md-6 all react">
                             <div class="portfolio_box">
                                 <div class="single_portfolio">
                                     <img class="img-fluid w-100" src="prop/img/portfolio/2.png" alt="">
@@ -74,24 +85,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 all cms">
-                            <div class="portfolio_box">
-                                <div class="single_portfolio">
-                                    <img class="img-fluid w-100" src="prop/img/portfolio/3.png" alt="">
-                                    <div class="overlay"></div>
-                                    <a href="prop/img/portfolio/3.png" class="img-gal">
-                                        <div class="icon">
-                                            <span class="lnr lnr-cross"></span>
-                                        </div>
-                                    </a>
-                                </div>
-                                <div class="short_info">
-                                    <h4>AB App</h4>
-                                    <p>Kids application for learning about Animals or Birds in their early ages. How they sound differently in different scenarios</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 all react wordpress">
+                    <div class="col-lg-4 col-md-6 all cms">
                             <div class="portfolio_box">
                                 <div class="single_portfolio">
                                     <img class="img-fluid w-100" src="prop/img/portfolio/4.png" alt="">
@@ -109,8 +103,7 @@
                                 </div>
                             </div>
                         </div>
-           
-                        <div class="col-lg-4 col-md-6 all uix php">
+                    <div class="col-lg-4 col-md-6 all uix php">
                             <div class="portfolio_box">
                                 <div class="single_portfolio">
                                     <img class="img-fluid w-100" src="prop/img/portfolio/7.png" alt="">
@@ -127,7 +120,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 all php wordpress">
+                    <div class="col-lg-4 col-md-6 all php wordpress">
                             <div class="portfolio_box">
                                 <div class="single_portfolio">
                                     <img class="img-fluid w-100" src="prop/img/portfolio/12.png" alt="">
@@ -144,7 +137,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 all uix">
+                    <div class="col-lg-4 col-md-6 all uix">
                             <div class="portfolio_box">
                                 <div class="single_portfolio">
                                     <img class="img-fluid w-100" src="prop/img/portfolio/13.png" alt="">
@@ -161,7 +154,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 all uix">
+                    <div class="col-lg-4 col-md-6 all uix">
                             <div class="portfolio_box">
                                 <div class="single_portfolio">
                                     <img class="img-fluid w-100" src="prop/img/portfolio/9.png" alt="">
@@ -178,9 +171,10 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
                 </div>
-        </section>
+            </div>
+        </div>
+    </section>
     <!-- Pricing End -->
 
 </div>
