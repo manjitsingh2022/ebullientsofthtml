@@ -18,7 +18,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
 	<!-- Title -->
-    <title>Services</title>
+    <title>ebullientsoft</title>
 
 	<!-- Favicon icon -->
 	<link rel="icon" type="image/png" href="images/favicon.png">
@@ -46,99 +46,7 @@
 <div class="page-wraper">
 
 	<!-- Header -->
-	<header class="site-header mo-left header header-transparent style-1">
-
-		<!-- Main Header -->
-		<div class="sticky-header main-bar-wraper navbar-expand-lg">
-			<div class="main-bar clearfix">
-				<div class="container clearfix">
-
-					<!-- Website Logo -->
-					<div class="logo-header">
-						<a href="index.html" class="logo-dark"><img src="images/logo.png" alt=""></a>
-						<a href="index.html" class="logo-light"><img src="images/logo-white.png" alt=""></a>
-					</div>
-					
-					<!-- Nav Toggle Button Strat -->
-					<button class="navbar-toggler collapsed navicon justify-content-end" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-						<span></span>
-						<span></span>
-						<span></span>
-					</button>
-					<!-- Nav Toggle Button End -->
-					
-					<!-- Extra Nav Start -->
-					<div class="extra-nav">
-						<div class="extra-cell">
-							<a class="btn btn-outline-primary text-white" target="_blank" href="https://cryptozone.dexignzone.com/xhtml/page-login.html">Login</a>
-							<a class="btn btn-primary btn-gradient btn-shadow" target="_blank" href="https://cryptozone.dexignzone.com/xhtml/page-register.html">Register</a>
-						</div>
-					</div>
-					<!-- Extra Nav End -->
-						
-					<div class="header-nav navbar-collapse collapse justify-content-end" id="navbarNavDropdown">
-						
-						<!-- Mobile Sidebar Logo -->
-						<div class="logo-header mostion">
-							<a href="index.html" class="logo-dark"><img src="images/logo.png" alt=""></a>
-						</div>
-						
-						<!-- Navbar nav -->
-						<ul class="nav navbar-nav navbar">
-							<li><a href="index.html">Home</a></li>
-							<li><a href="about-us.html">About Us</a></li>
-							<li><a href="pricing.html">Pricing</a></li>
-							<li class="sub-menu-down"><a href="javascript:void(0);">Blog</a>
-								
-							</li>
-							<li><a href="contact-us.html">Contact Us</a></li>
-						</ul>
-						
-						<!-- Mobile Sidebar bottom -->
-						<div class="header-bottom">
-							<div class="dz-social-icon">
-							  <ul>
-								<li>
-								  <a
-									target="_blank"
-									class="fab fa-facebook-f"
-									href="https://www.facebook.com/ebullientsoft"
-								  ></a>
-								</li>
-								<li>
-								  <a
-									target="_blank"
-									class="fab fa-twitter"
-									href="https://twitter.com/"
-								  ></a>
-								</li>
-								<li>
-								  <a
-									target="_blank"
-									class="fab fa-linkedin-in"
-									href="https://www.linkedin.com/in/ebullient-soft-818318158/"
-								  ></a>
-								</li>
-								<li>
-								  <a
-									target="_blank"
-									class="fab fa-instagram"
-									href="https://instagram.com/ebullientsoft?igshid=MjEwN2IyYWYwYw==/"
-								  ></a>
-								</li>
-							  </ul>
-							</div>
-						  </div>
-						
-					</div>
-					
-				</div>
-			</div>
-
-		</div>
-		<!-- Main Header End -->
-
-	</header>
+	<?php require_once("header.php"); ?>
 	<!-- Header -->
 	
 	
@@ -308,7 +216,7 @@
 	<!-- Page Content End -->
 
 	<!-- Footer -->
-    <footer class="site-footer style-1" id="footer">
+    <!-- <footer class="site-footer style-1" id="footer"> -->
         <img class="bg-shape1" src="images/home-banner/shape1.png" alt="" />
 
         <div class="footer-top background-luminosity" style="background-image: url(images/background/bg1.jpg)">
@@ -345,7 +253,7 @@
                     <li><a href="index.php">Home</a></li>
                     <li><a href="about-us.php">About Us</a></li>
                     <li><a href="portfolio.php">Portfolio</a></li>
-                    <li><a href="services.php">Services</a></li>
+                    <li><a href="service.php">Services</a></li>
                     <li><a href="contact-us.php">Contact Us</a></li>
                   </ul>
                 </div>
@@ -402,6 +310,8 @@
 	<button class="scroltop icon-up" type="button" style="display: inline-block;"><i class="fas fa-arrow-up"></i></button>
 	
 </div>
+<?php require_once("footer.php"); ?>
+
 
 <!-- JAVASCRIPT FILES ========================================= -->
 <script src="js/jquery.min.js"></script><!-- JQUERY.MIN JS -->
