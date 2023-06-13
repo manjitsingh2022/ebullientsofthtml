@@ -141,7 +141,7 @@
 </section>
 <!-- Why Trust Us End -->
 
-<?php require_once("services.php"); ?>
+<?php require_once("service.php"); ?>
 
 <!-- From Our Blog Start -->
 <section class="content-inner bg-white blog-wrapper">
