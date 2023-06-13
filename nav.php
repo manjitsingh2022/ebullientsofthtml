@@ -10,16 +10,6 @@
     <li><a href="portfolio.php">Portfolio</a></li>
     <!-- <li><a href="services.php">Services</a></li> -->
     <li><a href="blog.php">Blog</a></li>
-    <!-- <li><a href="#section1" onclick="showContent('section1')">Services</a></li> -->
-    <!-- <li><a href="pricing.php">Pricing</a></li> -->
-    <!-- <li class="sub-menu-down">
-                     <a href="javascript:void(0);">Blog</a> -->
-    <!-- <ul class="sub-menu">
-                      <li><a href="blog-list.php">Blog list</a></li>
-                      <li><a href="blog-grid.php">Blog grid</a></li>
-                      <li><a href="blog-details.php">Blog details</a></li>
-                    </ul> 
-                  </li> -->
     <li><a href="about.php">About</a></li>
     <li><a href="contactus.php">Contact</a></li>
   </ul>
