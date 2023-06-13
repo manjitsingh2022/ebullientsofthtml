@@ -313,9 +313,3 @@
 <?php require_once("footer.php"); ?>
 
 
-<!-- JAVASCRIPT FILES ========================================= -->
-<script src="js/jquery.min.js"></script><!-- JQUERY.MIN JS -->
-<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script><!-- WOW.JS -->
-<script src="js/custom.js"></script><!-- CUSTOM JS -->
-</body>
-</html>
