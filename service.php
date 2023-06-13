@@ -69,7 +69,7 @@
 		        <!-- Crypto From And Services Start -->
                 <section
                 class="content-inner bg-light icon-section section-wrapper2"
-                id="section1"
+                id="sectionservice"
                 class="content-section"
               >
                 <div class="container">

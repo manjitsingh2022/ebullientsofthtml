@@ -140,8 +140,10 @@
   <img class="bg-shape1" src="images/home-banner/shapeo1-removebg-preview.png" alt="" width="60px" />
 </section>
 <!-- Why Trust Us End -->
-
+<section id= "sectionservice">
 <?php require_once("service.php"); ?>
+</section>
+
 
 <!-- From Our Blog Start -->
 <section class="content-inner bg-white blog-wrapper">
