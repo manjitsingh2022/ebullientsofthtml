@@ -9,9 +9,9 @@
   <meta name="keywords" content="">
   <meta name="author" content="">
   <meta name="robots" content="">
-  <meta name="description" content="CryptoZone - Crypto Trading HTML Template">
-  <meta property="og:title" content="CryptoZone - Crypto Trading HTML Template">
-  <meta property="og:description" content="CryptoZone - Crypto Trading HTML Template">
+  <meta name="description" content="EbullientSoft - Top IT Company">
+  <meta property="og:title" content="EbullientSoft - Top IT Company">
+  <meta property="og:description" content="EbullientSoft - Top IT Company">
   <meta property="og:image" content="">
   <meta name="format-detection" content="telephone=no">
 
