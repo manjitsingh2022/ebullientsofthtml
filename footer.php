@@ -81,8 +81,8 @@
         <!-- Footer Bottom Part -->
         <div class="footer-bottom text-center">
           <div class="container">
-            <span class="copyright-text">Copyright © 2022
-              <a href="https://ebullientsoft.com/" target="_blank">ebullientsoft</a>. All rights reserved.</span>
+            <span class="copyright-text">Copyright © <?php date('Y');?>
+              <a href="https://ebullientsoft.com/" target="_blank">ebullientsoft.com</a></span>
           </div>
         </div>
       </footer>
@@ -124,6 +124,24 @@
       <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
       <script src="prop/js/gmaps.min.js"></script>
       <script src="prop/js/theme.js"></script>
+      <script>
+      $(document).ready(function() {
+        $('#successContact').hide();
+        $('#myForm').submit(function(event) {
+          // Prevent the default form submission behavior
+          event.preventDefault();
+
+          // Get the form data
+          var formData = $(this).serialize();
+
+          // Send the form data to the PHP script
+          $.post('process.php', formData, function(response) {
+            // Handle the response from the PHP script
+            $('#successContact').show();
+          });
+        });
+      });
+    </script>
       </body>
 
       </html>

@@ -80,8 +80,9 @@
 								<div class="mb-4">
 									<h2 class="mb-0">Get In touch</h2>
 									<p class="mb-0 font-18 text-primary">We are here for you. How we can help?</p>
+									<p class="mb-0 font-18 text-success" id="successContact">Thanks for reaching us, we will contact you shortly.</p>
 								</div>
-								<form class="dzForm" method="POST" action="script/contact_smtp.php">
+								<form class="dzForm" method="POST" action="" id="myForm">
 									<div class="dzFormMsg"></div>
 									<input type="hidden" class="form-control" name="dzToDo" value="Contact">
 
@@ -101,12 +102,12 @@
 										<div class="col-xl-12 mb-3 mb-md-4">
 											<textarea name="dzMessage" required class="form-control" placeholder="Message"></textarea>
 										</div>
-										<div class="col-xl-12 mb-3 mb-md-4">
+										<?php /*<div class="col-xl-12 mb-3 mb-md-4">
 											<div class="g-recaptcha" data-sitekey="<!-- Put reCaptcha Site Key -->" data-callback="verifyRecaptchaCallback" data-expired-callback="expiredRecaptchaCallback"></div>
 											<input class="form-control d-none" style="display:none;" data-recaptcha="true" required data-error="Please complete the Captcha">
-										</div>
+										</div> */?>
 										<div class="col-xl-12">
-											<button name="submit" type="submit" value="Submit" class="btn btn-primary">Submit Now</button>
+											<button type="submit" value="Submit" class="btn btn-primary">Send Enquiry</button>
 										</div>
 									</div>
 								</form>
