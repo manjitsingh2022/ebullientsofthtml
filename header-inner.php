@@ -9,9 +9,9 @@
   <meta name="keywords" content="">
   <meta name="author" content="">
   <meta name="robots" content="">
-  <meta name="description" content="EbullientSoft - Top IT Company">
-  <meta property="og:title" content="EbullientSoft - Top IT Company">
-  <meta property="og:description" content="EbullientSoft - Top IT Company">
+  <meta name="description" content="EbullientSoft - Web Development, Web Designing, Mobile Applications, Desktop Applications">
+  <meta property="og:title" content="EbullientSoft - Web Development, Web Designing, Mobile Applications, Desktop Applications">
+  <meta property="og:description" content="EbullientSoft - Web Development, Web Designing, Mobile Applications, Desktop Applications">
   <meta property="og:image" content="">
   <meta name="format-detection" content="telephone=no">
 
